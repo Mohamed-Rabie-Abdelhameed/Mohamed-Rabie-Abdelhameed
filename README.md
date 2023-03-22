@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center" width="50">
 
-<!--
-**Mohamed-Rabie-Abdelhameed/Mohamed-Rabie-Abdelhameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Greetings, fellow coders! 👋
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/83073238/226982942-21508cbc-990b-4374-ada4-ef6052145734.gif" width="50%"/><br> 
+  
+<p><strong>My name is Mohamed Rabie, and I'm a software engineering student from Aswan, Egypt. <br>I'm passionate about coding and constantly striving to improve my skills.
+ <br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr></hr>
+
+```dart
+class About extends Me { 
+  const Rabie = {  
+    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "MySQL" },
+    "Editors" : { "Vscode", "Netbeans", "IntelliJ" },
+    "Platforms" : { "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Illustrator", "Lightroom" }
+  };
+}
+```
+
+
+
+
