@@ -13,11 +13,11 @@
 ```dart
 class About extends Me { 
   const Rabie = {  
-    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
+    "ProgramingLanguages" : { "Javascript", "TypeScript", "Java", "Dart", "C++", "C", "Python" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "MySQL" },
-    "Editors" : { "Vscode", "Netbeans", "IntelliJ" },
-    "Platforms" : { "Windows" },
+    "Database" : { "Sanity.IO", "Firebase", "MySQL" },
+    "Editors" : { "Windsurf", "Cursor", "Vscode", "Netbeans", "IntelliJ" },
+    "Platforms" : { "Windows", "Linux" },
     "OtherTools" : { "Git", "Figma", "Photoshop", "Illustrator", "Lightroom" }
   };
 }
